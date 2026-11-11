@@ -1,645 +1,1253 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-11T06:51:02.866Z",
+  "generatedAt": "2026-11-11T19:42:33.949Z",
   "source": "Chess.com PubAPI",
   "club": {
     "name": "Nashediyon Ki Toli - NKT",
     "slug": "nashediyon-ki-toli-nkt",
-    "memberCount": 911,
-    "dailyRating": 816,
+    "memberCount": 913,
+    "dailyRating": 815,
     "url": "https://www.chess.com/club/nashediyon-ki-toli-nkt"
   },
   "freshness": {
     "memberRoster": "Chess.com may cache public endpoint responses for up to 12 hours.",
-    "playerStatsProcessed": 912,
+    "playerStatsProcessed": 907,
     "playerStatsFailed": 0,
-    "membersTotal": 912
+    "membersTotal": 907
   },
   "recentMembers": [
     {
+      "username": "maxthecastlev2",
+      "joined": 1794442901
+    },
+    {
+      "username": "yteay",
+      "joined": 1794438996
+    },
+    {
       "username": "mittens_stockcat",
       "joined": 1794370253
-    },
-    {
-      "username": "udit_x_penaldo",
-      "joined": 1794347065
-    },
-    {
-      "username": "ghhost123",
-      "joined": 1794343006
     }
   ],
   "monthlyRace": {
     "month": "2026-11",
     "startedAt": "2026-11-11T06:51:02.866Z",
-    "eligibleCount": 0,
-    "rows": []
+    "eligibleCount": 193,
+    "rows": [
+      {
+        "rank": 1,
+        "username": "vokomeesehe",
+        "ratingChange": 143,
+        "formats": {
+          "chess_blitz": 0,
+          "chess_bullet": 143
+        },
+        "games": 29,
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/613782470.991864d8.200x200o.aa562c837a60.jpg"
+      },
+      {
+        "rank": 2,
+        "username": "kritigya777",
+        "ratingChange": 109,
+        "formats": {
+          "chess_rapid": 60,
+          "chess_blitz": 58,
+          "chess_bullet": -9
+        },
+        "games": 33,
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/506830919.b6a50694.200x200o.58074fade335.jpg",
+        "displayName": "𝒢𝓁𝑜𝓈𝓈𝓎 𝐿𝒾𝒻𝑒 🕊️"
+      },
+      {
+        "rank": 3,
+        "username": "tsehayedimtsu",
+        "ratingChange": 87,
+        "formats": {
+          "chess_rapid": 87,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 44,
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/354880477.0be7bfd7.200x200o.aa09d8cbc7a3.jpg",
+        "displayName": "Tsehaye Dimtsu Araya"
+      },
+      {
+        "rank": 4,
+        "username": "anurag-tigga",
+        "ratingChange": 63,
+        "formats": {
+          "chess_rapid": 10,
+          "chess_blitz": 0,
+          "chess_bullet": 53
+        },
+        "games": 22,
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/338360709.60a048ad.200x200o.d0a6a83559f5.png",
+        "displayName": "ꫝ Ɲ 𝚄 Ʀ ꫝ G  ‼ ️"
+      },
+      {
+        "rank": 5,
+        "username": "shantia-s",
+        "ratingChange": 60,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 60,
+          "chess_bullet": 0
+        },
+        "games": 27,
+        "avatar": null
+      },
+      {
+        "rank": 6,
+        "username": "hiyoulittle",
+        "ratingChange": 57,
+        "formats": {
+          "chess_rapid": 23,
+          "chess_blitz": 34,
+          "chess_bullet": 0
+        },
+        "games": 19,
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/374985519.06943171.200x200o.ee6054be23b8.png",
+        "displayName": "♝ 𝔸𝕣𝕛𝕠"
+      },
+      {
+        "rank": 7,
+        "username": "jeetbhakat",
+        "ratingChange": 56,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 20,
+          "chess_bullet": 36
+        },
+        "games": 31,
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/262040743.2183d463.200x200o.3a83cbc8b353.jpg"
+      },
+      {
+        "rank": 8,
+        "username": "travellerrr5",
+        "ratingChange": 54,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 54
+        },
+        "games": 8,
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/475974770.beb1465e.200x200o.512a4cc39433.jpg"
+      },
+      {
+        "rank": 9,
+        "username": "diksha-sharmaa",
+        "ratingChange": 52,
+        "formats": {
+          "chess_rapid": 42,
+          "chess_blitz": 0,
+          "chess_bullet": 10
+        },
+        "games": 9,
+        "avatar": null
+      },
+      {
+        "rank": 10,
+        "username": "roseforu777",
+        "ratingChange": 51,
+        "formats": {
+          "chess_rapid": 51,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 1,
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/447363574.f23dd291.200x200o.10a0e55437c7.jpg",
+        "displayName": "shreya"
+      },
+      {
+        "rank": 11,
+        "username": "michelrc2000",
+        "ratingChange": 51,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 51
+        },
+        "games": 16,
+        "avatar": null
+      },
+      {
+        "rank": 12,
+        "username": "deepesh1058",
+        "ratingChange": 46,
+        "formats": {
+          "chess_rapid": 9,
+          "chess_blitz": 0,
+          "chess_bullet": 37
+        },
+        "games": 37,
+        "avatar": null,
+        "displayName": "mohit Singh"
+      },
+      {
+        "rank": 13,
+        "username": "a1bed-alazez-ghneamat",
+        "ratingChange": 45,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 45
+        },
+        "games": 8,
+        "avatar": null
+      },
+      {
+        "rank": 14,
+        "username": "ishwar8504",
+        "ratingChange": 43,
+        "formats": {
+          "chess_rapid": 43,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 15,
+        "avatar": null
+      },
+      {
+        "rank": 15,
+        "username": "gj7panch",
+        "ratingChange": 41,
+        "formats": {
+          "chess_rapid": 41,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 9,
+        "avatar": null
+      },
+      {
+        "rank": 16,
+        "username": "armandonavo15",
+        "ratingChange": 41,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": -22,
+          "chess_bullet": 63
+        },
+        "games": 47,
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/465412694.a34239d8.200x200o.034823537ea7.jpg"
+      },
+      {
+        "rank": 17,
+        "username": "synekbegood",
+        "ratingChange": 40,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 40
+        },
+        "games": 5,
+        "avatar": null
+      },
+      {
+        "rank": 18,
+        "username": "shaqurr5",
+        "ratingChange": 39,
+        "formats": {
+          "chess_rapid": 39,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 14,
+        "avatar": null
+      },
+      {
+        "rank": 19,
+        "username": "chessagain1977",
+        "ratingChange": 39,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 39
+        },
+        "games": 5,
+        "avatar": null
+      },
+      {
+        "rank": 20,
+        "username": "udit_x_penaldo",
+        "ratingChange": 33,
+        "formats": {
+          "chess_rapid": 25,
+          "chess_blitz": 8,
+          "chess_bullet": 0
+        },
+        "games": 2,
+        "avatar": null
+      },
+      {
+        "rank": 21,
+        "username": "shaurya949",
+        "ratingChange": 33,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 33
+        },
+        "games": 4,
+        "avatar": null
+      },
+      {
+        "rank": 22,
+        "username": "jona-gr1800",
+        "ratingChange": 33,
+        "formats": {
+          "chess_rapid": 33,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 4,
+        "avatar": null
+      },
+      {
+        "rank": 23,
+        "username": "ravl152",
+        "ratingChange": 32,
+        "formats": {
+          "chess_rapid": 32,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 14,
+        "avatar": null
+      },
+      {
+        "rank": 24,
+        "username": "nachinalbandian",
+        "ratingChange": 32,
+        "formats": {
+          "chess_rapid": 32,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 5,
+        "avatar": null
+      },
+      {
+        "rank": 25,
+        "username": "soham17000",
+        "ratingChange": 32,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 32
+        },
+        "games": 12,
+        "avatar": null
+      },
+      {
+        "rank": 26,
+        "username": "magicianpk",
+        "ratingChange": 31,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 31
+        },
+        "games": 4,
+        "avatar": null
+      },
+      {
+        "rank": 27,
+        "username": "xyzcosmos",
+        "ratingChange": 29,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 29
+        },
+        "games": 36,
+        "avatar": null
+      },
+      {
+        "rank": 28,
+        "username": "maggie_nakamura",
+        "ratingChange": 28,
+        "formats": {
+          "chess_rapid": 28,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 3,
+        "avatar": null
+      },
+      {
+        "rank": 29,
+        "username": "chesswitharihant_jainiii",
+        "ratingChange": 26,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 26
+        },
+        "games": 4,
+        "avatar": null
+      },
+      {
+        "rank": 30,
+        "username": "akukhai-123",
+        "ratingChange": 26,
+        "formats": {
+          "chess_rapid": 9,
+          "chess_blitz": 0,
+          "chess_bullet": 17
+        },
+        "games": 3,
+        "avatar": null
+      },
+      {
+        "rank": 31,
+        "username": "ammrrr_7",
+        "ratingChange": 25,
+        "formats": {
+          "chess_rapid": 25,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 2,
+        "avatar": null
+      },
+      {
+        "rank": 32,
+        "username": "vvkkings",
+        "ratingChange": 23,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 23
+        },
+        "games": 9,
+        "avatar": null
+      },
+      {
+        "rank": 33,
+        "username": "bunnyz53",
+        "ratingChange": 23,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 23,
+          "chess_bullet": 0
+        },
+        "games": 2,
+        "avatar": null
+      },
+      {
+        "rank": 34,
+        "username": "eyes_blue_so_oceanic",
+        "ratingChange": 22,
+        "formats": {
+          "chess_rapid": 22,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 18,
+        "avatar": null
+      },
+      {
+        "rank": 35,
+        "username": "1yummy_chess",
+        "ratingChange": 22,
+        "formats": {
+          "chess_rapid": 7,
+          "chess_blitz": 15,
+          "chess_bullet": 0
+        },
+        "games": 5,
+        "avatar": null
+      },
+      {
+        "rank": 36,
+        "username": "silvviu",
+        "ratingChange": 22,
+        "formats": {
+          "chess_rapid": 22,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 9,
+        "avatar": null
+      },
+      {
+        "rank": 37,
+        "username": "sebastianrocks2018",
+        "ratingChange": 18,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 18
+        },
+        "games": 4,
+        "avatar": null
+      },
+      {
+        "rank": 38,
+        "username": "dudeism_10",
+        "ratingChange": 18,
+        "formats": {
+          "chess_rapid": 18,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 6,
+        "avatar": null
+      },
+      {
+        "rank": 39,
+        "username": "capybarun1004",
+        "ratingChange": 18,
+        "formats": {
+          "chess_rapid": 18,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 11,
+        "avatar": null
+      },
+      {
+        "rank": 40,
+        "username": "victor_augustin",
+        "ratingChange": 18,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 18
+        },
+        "games": 1,
+        "avatar": null
+      },
+      {
+        "rank": 41,
+        "username": "oo_arabi",
+        "ratingChange": 17,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 17,
+          "chess_bullet": 0
+        },
+        "games": 23,
+        "avatar": null
+      },
+      {
+        "rank": 42,
+        "username": "tanahp",
+        "ratingChange": 17,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 17
+        },
+        "games": 4,
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3134548.474a7429.200x200o.9322ea94cc36.jpeg",
+        "displayName": "Jinbei"
+      },
+      {
+        "rank": 43,
+        "username": "jirikmizera123",
+        "ratingChange": 17,
+        "formats": {
+          "chess_rapid": 17,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 4,
+        "avatar": null
+      },
+      {
+        "rank": 44,
+        "username": "iwok32",
+        "ratingChange": 16,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 16,
+          "chess_bullet": 0
+        },
+        "games": 2,
+        "avatar": null
+      },
+      {
+        "rank": 45,
+        "username": "drashmeetarora",
+        "ratingChange": 16,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 16
+        },
+        "games": 2,
+        "avatar": null
+      },
+      {
+        "rank": 46,
+        "username": "thelegendofchessisme",
+        "ratingChange": 16,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 0,
+          "chess_bullet": 16
+        },
+        "games": 3,
+        "avatar": null
+      },
+      {
+        "rank": 47,
+        "username": "chessfever17",
+        "ratingChange": 16,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 16,
+          "chess_bullet": 0
+        },
+        "games": 2,
+        "avatar": null
+      },
+      {
+        "rank": 48,
+        "username": "littlemittenzz",
+        "ratingChange": 16,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 16,
+          "chess_bullet": 0
+        },
+        "games": 4,
+        "avatar": null
+      },
+      {
+        "rank": 49,
+        "username": "ryanchesspromaster",
+        "ratingChange": 16,
+        "formats": {
+          "chess_rapid": 16,
+          "chess_blitz": 0,
+          "chess_bullet": 0
+        },
+        "games": 2,
+        "avatar": null
+      },
+      {
+        "rank": 50,
+        "username": "28gaurav",
+        "ratingChange": 16,
+        "formats": {
+          "chess_rapid": 0,
+          "chess_blitz": 16,
+          "chess_bullet": 0
+        },
+        "games": 4,
+        "avatar": null
+      }
+    ]
   },
   "overallLeaderboard": {
     "month": "2026-11",
     "methodology": "Automated member score: rating progress 50%, games played 35%, game win rate 15%. Individual team-match participation is not exposed by the public club matches endpoint and is not included.",
     "rows": [
       {
-        "username": "damjan1989",
-        "ratingChange": 0,
-        "games": 81716,
-        "wins": 43607,
-        "losses": 28794,
-        "draws": 9315,
-        "score": 43,
+        "username": "vokomeesehe",
+        "ratingChange": 143,
+        "games": 29,
+        "wins": 22,
+        "losses": 6,
+        "draws": 1,
+        "score": 67.4,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 1,
-        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/145826935.78cc33cb.200x200o.68adf09ed4b5.png"
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/613782470.991864d8.200x200o.aa562c837a60.jpg"
       },
       {
-        "username": "trimitziosp7",
-        "ratingChange": 0,
-        "games": 81732,
-        "wins": 39728,
-        "losses": 35845,
-        "draws": 6159,
-        "score": 42.3,
+        "username": "kritigya777",
+        "ratingChange": 109,
+        "games": 33,
+        "wins": 16,
+        "losses": 12,
+        "draws": 5,
+        "score": 52.3,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 2,
-        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36399258.7834e2ed.200x200o.ff7e27610f93.jpg",
-        "displayName": "Petros Trimitzios"
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/506830919.b6a50694.200x200o.58074fade335.jpg",
+        "displayName": "𝒢𝓁𝑜𝓈𝓈𝓎 𝐿𝒾𝒻𝑒 🕊️"
       },
       {
-        "username": "watchful_boss",
-        "ratingChange": 0,
-        "games": 70088,
-        "wins": 30586,
-        "losses": 37753,
-        "draws": 1749,
-        "score": 36.6,
+        "username": "tsehayedimtsu",
+        "ratingChange": 87,
+        "games": 44,
+        "wins": 26,
+        "losses": 15,
+        "draws": 3,
+        "score": 48.4,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 3,
-        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/340158411.ee72f438.200x200o.136b69729f1b.jpg"
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/354880477.0be7bfd7.200x200o.aa09d8cbc7a3.jpg",
+        "displayName": "Tsehaye Dimtsu Araya"
       },
       {
-        "username": "emir_yoel",
-        "ratingChange": 0,
-        "games": 63834,
-        "wins": 29125,
-        "losses": 34609,
-        "draws": 100,
-        "score": 34.2,
+        "username": "m_040",
+        "ratingChange": -95,
+        "games": 168,
+        "wins": 59,
+        "losses": 106,
+        "draws": 3,
+        "score": 40.3,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 4,
-        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/202119843.e5f71caf.200x200o.4deda839907f.jpg"
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/188941809.6ebfaf94.200x200o.89bfb454f274.jpg"
+      },
+      {
+        "username": "anurag-tigga",
+        "ratingChange": 63,
+        "games": 22,
+        "wins": 13,
+        "losses": 6,
+        "draws": 3,
+        "score": 35.5,
+        "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
+        "rank": 5,
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/338360709.60a048ad.200x200o.d0a6a83559f5.png",
+        "displayName": "ꫝ Ɲ 𝚄 Ʀ ꫝ G  ‼ ️"
+      },
+      {
+        "username": "hiyoulittle",
+        "ratingChange": 57,
+        "games": 19,
+        "wins": 14,
+        "losses": 4,
+        "draws": 1,
+        "score": 34.9,
+        "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
+        "rank": 6,
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/374985519.06943171.200x200o.ee6054be23b8.png",
+        "displayName": "♝ 𝔸𝕣𝕛𝕠"
       },
       {
         "username": "shantia-s",
-        "ratingChange": 0,
-        "games": 54255,
-        "wins": 27482,
-        "losses": 23938,
-        "draws": 2835,
-        "score": 30.8,
-        "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
-        "rank": 5,
-        "avatar": null
-      },
-      {
-        "username": "findantheelf",
-        "ratingChange": 0,
-        "games": 53624,
-        "wins": 27395,
-        "losses": 24344,
-        "draws": 1885,
-        "score": 30.6,
-        "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
-        "rank": 6,
-        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/102031194.73f3ee82.200x200o.1d6d9d6831eb.jpeg"
-      },
-      {
-        "username": "tanahp",
-        "ratingChange": 0,
-        "games": 51288,
-        "wins": 24358,
-        "losses": 25921,
-        "draws": 1009,
-        "score": 29.1,
+        "ratingChange": 60,
+        "games": 27,
+        "wins": 14,
+        "losses": 8,
+        "draws": 5,
+        "score": 34.4,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 7,
-        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3134548.474a7429.200x200o.9322ea94cc36.jpeg",
-        "displayName": "Jinbei"
-      },
-      {
-        "username": "lusitorey7",
-        "ratingChange": 0,
-        "games": 50674,
-        "wins": 23634,
-        "losses": 25727,
-        "draws": 1313,
-        "score": 28.7,
-        "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
-        "rank": 8,
-        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5576484.5f7c7d8b.200x200o.028ef636c450.jpeg",
-        "displayName": "Luis Carlos España Gómez"
-      },
-      {
-        "username": "aakuttan",
-        "ratingChange": 0,
-        "games": 51493,
-        "wins": 22743,
-        "losses": 28325,
-        "draws": 425,
-        "score": 28.7,
-        "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
-        "rank": 9,
-        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5076014.08fb1ea2.200x200o.50e423ff5ad6.jpeg",
-        "displayName": "AKASH AB"
-      },
-      {
-        "username": "spudwebb11",
-        "ratingChange": 0,
-        "games": 41095,
-        "wins": 24729,
-        "losses": 13708,
-        "draws": 2658,
-        "score": 26.6,
-        "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
-        "rank": 10,
         "avatar": null
       },
       {
-        "username": "josemi45",
-        "ratingChange": 0,
-        "games": 41409,
-        "wins": 20275,
-        "losses": 20065,
-        "draws": 1069,
-        "score": 25.1,
+        "username": "jeetbhakat",
+        "ratingChange": 56,
+        "games": 31,
+        "wins": 17,
+        "losses": 11,
+        "draws": 3,
+        "score": 34.3,
+        "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
+        "rank": 8,
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/262040743.2183d463.200x200o.3a83cbc8b353.jpg"
+      },
+      {
+        "username": "travellerrr5",
+        "ratingChange": 54,
+        "games": 8,
+        "wins": 7,
+        "losses": 0,
+        "draws": 1,
+        "score": 33.7,
+        "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
+        "rank": 9,
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/475974770.beb1465e.200x200o.512a4cc39433.jpg"
+      },
+      {
+        "username": "roseforu777",
+        "ratingChange": 51,
+        "games": 1,
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "score": 33,
+        "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
+        "rank": 10,
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/447363574.f23dd291.200x200o.10a0e55437c7.jpg",
+        "displayName": "shreya"
+      },
+      {
+        "username": "deepesh1058",
+        "ratingChange": 46,
+        "games": 37,
+        "wins": 20,
+        "losses": 15,
+        "draws": 2,
+        "score": 31.9,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 11,
-        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/107862644.e96e2a98.200x200o.7a263278980c.webp",
-        "displayName": "Josemi"
+        "avatar": null,
+        "displayName": "mohit Singh"
       },
       {
-        "username": "theovsme",
-        "ratingChange": 0,
-        "games": 39504,
-        "wins": 19442,
-        "losses": 18698,
-        "draws": 1364,
-        "score": 24.3,
+        "username": "armandonavo15",
+        "ratingChange": 41,
+        "games": 47,
+        "wins": 24,
+        "losses": 19,
+        "draws": 4,
+        "score": 31.8,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 12,
-        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/169741469.df6e2b61.200x200o.df81a41bbbf5.jpg"
+        "avatar": "https://images.chesscomfiles.com/uploads/v1/user/465412694.a34239d8.200x200o.034823537ea7.jpg"
       },
       {
-        "username": "cuerosky",
-        "ratingChange": 0,
-        "games": 30659,
-        "wins": 22186,
-        "losses": 7429,
-        "draws": 1044,
-        "score": 24,
+        "username": "diksha-sharmaa",
+        "ratingChange": 52,
+        "games": 9,
+        "wins": 7,
+        "losses": 1,
+        "draws": 1,
+        "score": 31.7,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 13,
         "avatar": null
       },
       {
-        "username": "sumitkumar01",
-        "ratingChange": 0,
-        "games": 34693,
-        "wins": 17264,
-        "losses": 16571,
-        "draws": 858,
-        "score": 22.3,
+        "username": "vvv_xyz",
+        "ratingChange": 2,
+        "games": 112,
+        "wins": 51,
+        "losses": 54,
+        "draws": 7,
+        "score": 30.9,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 14,
         "avatar": null
       },
       {
-        "username": "jyotinjai",
-        "ratingChange": 0,
-        "games": 34448,
-        "wins": 16842,
-        "losses": 15425,
-        "draws": 2181,
-        "score": 22.1,
+        "username": "michelrc2000",
+        "ratingChange": 51,
+        "games": 16,
+        "wins": 10,
+        "losses": 5,
+        "draws": 1,
+        "score": 30.5,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 15,
         "avatar": null
       },
       {
-        "username": "tsehayedimtsu",
-        "ratingChange": 0,
-        "games": 32902,
-        "wins": 15930,
-        "losses": 16096,
-        "draws": 876,
-        "score": 21.4,
+        "username": "synekbegood",
+        "ratingChange": 40,
+        "games": 5,
+        "wins": 5,
+        "losses": 0,
+        "draws": 0,
+        "score": 30,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 16,
         "avatar": null
       },
       {
-        "username": "desert_storm1974",
-        "ratingChange": 0,
-        "games": 30809,
-        "wins": 15004,
-        "losses": 12056,
-        "draws": 3749,
-        "score": 20.5,
+        "username": "chessagain1977",
+        "ratingChange": 39,
+        "games": 5,
+        "wins": 5,
+        "losses": 0,
+        "draws": 0,
+        "score": 29.7,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 17,
         "avatar": null
       },
       {
-        "username": "maiconramazzotte99",
-        "ratingChange": 0,
-        "games": 28026,
-        "wins": 13917,
-        "losses": 12556,
-        "draws": 1553,
-        "score": 19.5,
+        "username": "a1bed-alazez-ghneamat",
+        "ratingChange": 45,
+        "games": 8,
+        "wins": 6,
+        "losses": 1,
+        "draws": 1,
+        "score": 28.7,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 18,
         "avatar": null
       },
       {
-        "username": "dlohumi",
-        "ratingChange": 0,
-        "games": 27344,
-        "wins": 13495,
-        "losses": 13602,
-        "draws": 247,
-        "score": 19.1,
+        "username": "gj7panch",
+        "ratingChange": 41,
+        "games": 9,
+        "wins": 7,
+        "losses": 2,
+        "draws": 0,
+        "score": 27.9,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 19,
         "avatar": null
       },
       {
-        "username": "honey-badger1999",
-        "ratingChange": 0,
-        "games": 28437,
-        "wins": 12862,
-        "losses": 12629,
-        "draws": 2946,
-        "score": 19,
+        "username": "shaurya949",
+        "ratingChange": 33,
+        "games": 4,
+        "wins": 4,
+        "losses": 0,
+        "draws": 0,
+        "score": 27.4,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 20,
         "avatar": null
       },
       {
-        "username": "jajagogoo",
-        "ratingChange": 0,
-        "games": 26888,
-        "wins": 13153,
-        "losses": 13269,
-        "draws": 466,
-        "score": 18.9,
+        "username": "ishwar8504",
+        "ratingChange": 43,
+        "games": 15,
+        "wins": 9,
+        "losses": 4,
+        "draws": 2,
+        "score": 27.2,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 21,
         "avatar": null
       },
       {
-        "username": "josepmise",
-        "ratingChange": 0,
-        "games": 27382,
-        "wins": 12172,
-        "losses": 11896,
-        "draws": 3314,
-        "score": 18.4,
+        "username": "udit_x_penaldo",
+        "ratingChange": 33,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "draws": 0,
+        "score": 27,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 22,
         "avatar": null
       },
       {
-        "username": "emperorprasanna",
-        "ratingChange": 0,
-        "games": 25997,
-        "wins": 12202,
-        "losses": 12501,
-        "draws": 1294,
-        "score": 18.2,
+        "username": "magicianpk",
+        "ratingChange": 31,
+        "games": 4,
+        "wins": 4,
+        "losses": 0,
+        "draws": 0,
+        "score": 26.7,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 23,
         "avatar": null
       },
       {
-        "username": "boqueronazo",
-        "ratingChange": 0,
-        "games": 25300,
-        "wins": 12043,
-        "losses": 12126,
-        "draws": 1131,
-        "score": 18,
+        "username": "shaqurr5",
+        "ratingChange": 39,
+        "games": 14,
+        "wins": 9,
+        "losses": 4,
+        "draws": 1,
+        "score": 26.2,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 24,
         "avatar": null
       },
       {
-        "username": "invatsajoc",
-        "ratingChange": 0,
-        "games": 23940,
-        "wins": 11766,
-        "losses": 11387,
-        "draws": 787,
-        "score": 17.6,
+        "username": "tactical_chess64",
+        "ratingChange": -8,
+        "games": 95,
+        "wins": 40,
+        "losses": 49,
+        "draws": 6,
+        "score": 26.1,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 25,
         "avatar": null
       },
       {
-        "username": "gaston_85",
-        "ratingChange": 0,
-        "games": 24000,
-        "wins": 11534,
-        "losses": 11767,
-        "draws": 699,
-        "score": 17.5,
+        "username": "xyzcosmos",
+        "ratingChange": 29,
+        "games": 36,
+        "wins": 20,
+        "losses": 16,
+        "draws": 0,
+        "score": 26,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 26,
         "avatar": null
       },
       {
-        "username": "jeetbhakat",
-        "ratingChange": 0,
-        "games": 24350,
-        "wins": 11452,
-        "losses": 11703,
-        "draws": 1195,
-        "score": 17.5,
+        "username": "maggie_nakamura",
+        "ratingChange": 28,
+        "games": 3,
+        "wins": 3,
+        "losses": 0,
+        "draws": 0,
+        "score": 25.4,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 27,
         "avatar": null
       },
       {
-        "username": "sgt_claudionor",
-        "ratingChange": 0,
-        "games": 22486,
-        "wins": 11798,
-        "losses": 9822,
-        "draws": 866,
-        "score": 17.5,
+        "username": "akukhai-123",
+        "ratingChange": 26,
+        "games": 3,
+        "wins": 3,
+        "losses": 0,
+        "draws": 0,
+        "score": 24.7,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 28,
         "avatar": null
       },
       {
-        "username": "saksham_100",
-        "ratingChange": 0,
-        "games": 24431,
-        "wins": 11396,
-        "losses": 11813,
-        "draws": 1222,
-        "score": 17.5,
+        "username": "nachinalbandian",
+        "ratingChange": 32,
+        "games": 5,
+        "wins": 4,
+        "losses": 0,
+        "draws": 1,
+        "score": 24.2,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 29,
         "avatar": null
       },
       {
-        "username": "m_040",
-        "ratingChange": 0,
-        "games": 22415,
-        "wins": 10851,
-        "losses": 10565,
-        "draws": 999,
-        "score": 16.9,
+        "username": "ammrrr_7",
+        "ratingChange": 25,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "draws": 0,
+        "score": 24.2,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 30,
         "avatar": null
       },
       {
-        "username": "dr_murat_ertugrul",
-        "ratingChange": 0,
-        "games": 22151,
-        "wins": 10831,
-        "losses": 10719,
-        "draws": 601,
-        "score": 16.8,
+        "username": "ravl152",
+        "ratingChange": 32,
+        "games": 14,
+        "wins": 9,
+        "losses": 5,
+        "draws": 0,
+        "score": 23.7,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 31,
         "avatar": null
       },
       {
-        "username": "deepesh1058",
-        "ratingChange": 0,
-        "games": 21875,
-        "wins": 10707,
-        "losses": 10674,
-        "draws": 494,
-        "score": 16.7,
+        "username": "soham17000",
+        "ratingChange": 32,
+        "games": 12,
+        "wins": 8,
+        "losses": 4,
+        "draws": 0,
+        "score": 23.7,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 32,
         "avatar": null
       },
       {
-        "username": "vvv_xyz",
-        "ratingChange": 0,
-        "games": 14689,
-        "wins": 9883,
-        "losses": 4104,
-        "draws": 702,
-        "score": 16.4,
+        "username": "jona-gr1800",
+        "ratingChange": 33,
+        "games": 4,
+        "wins": 3,
+        "losses": 1,
+        "draws": 0,
+        "score": 23.6,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 33,
         "avatar": null
       },
       {
-        "username": "umesh8231",
-        "ratingChange": 0,
-        "games": 21436,
-        "wins": 10058,
-        "losses": 9945,
-        "draws": 1433,
-        "score": 16.2,
+        "username": "chess_kheloge_kya",
+        "ratingChange": 7,
+        "games": 66,
+        "wins": 30,
+        "losses": 35,
+        "draws": 1,
+        "score": 23,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 34,
         "avatar": null
       },
       {
-        "username": "28gaurav",
-        "ratingChange": 0,
-        "games": 19797,
-        "wins": 9758,
-        "losses": 9380,
-        "draws": 659,
-        "score": 15.9,
+        "username": "misted_hana",
+        "ratingChange": 15,
+        "games": 46,
+        "wins": 24,
+        "losses": 22,
+        "draws": 0,
+        "score": 22.7,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 35,
         "avatar": null
       },
       {
-        "username": "falcoz_174",
-        "ratingChange": 0,
-        "games": 19004,
-        "wins": 9581,
-        "losses": 9088,
-        "draws": 335,
-        "score": 15.7,
+        "username": "adamyasanju",
+        "ratingChange": 13,
+        "games": 24,
+        "wins": 20,
+        "losses": 3,
+        "draws": 1,
+        "score": 22,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 36,
         "avatar": null
       },
       {
-        "username": "adarsh_neutron",
-        "ratingChange": 0,
-        "games": 19267,
-        "wins": 9379,
-        "losses": 8883,
-        "draws": 1005,
-        "score": 15.6,
+        "username": "victor_augustin",
+        "ratingChange": 18,
+        "games": 1,
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "score": 21.5,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 37,
         "avatar": null
       },
       {
-        "username": "kamran1990114",
-        "ratingChange": 0,
-        "games": 18194,
-        "wins": 9247,
-        "losses": 8101,
-        "draws": 846,
-        "score": 15.4,
+        "username": "chesswitharihant_jainiii",
+        "ratingChange": 26,
+        "games": 4,
+        "wins": 3,
+        "losses": 0,
+        "draws": 1,
+        "score": 21.2,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 38,
         "avatar": null
       },
       {
-        "username": "tactical_chess64",
-        "ratingChange": 0,
-        "games": 19677,
-        "wins": 9142,
-        "losses": 9521,
-        "draws": 1014,
-        "score": 15.4,
+        "username": "iwok32",
+        "ratingChange": 16,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "draws": 0,
+        "score": 21,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 39,
         "avatar": null
       },
       {
-        "username": "1yummy_chess",
-        "ratingChange": 0,
-        "games": 18509,
-        "wins": 8997,
-        "losses": 8649,
-        "draws": 863,
-        "score": 15.2,
+        "username": "drashmeetarora",
+        "ratingChange": 16,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "draws": 0,
+        "score": 21,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 40,
         "avatar": null
       },
       {
-        "username": "lunar_addicted",
-        "ratingChange": 0,
+        "username": "chessfever17",
+        "ratingChange": 16,
         "games": 2,
         "wins": 2,
         "losses": 0,
         "draws": 0,
-        "score": 15,
+        "score": 21,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 41,
         "avatar": null
       },
       {
-        "username": "ellieeee_143",
-        "ratingChange": 0,
+        "username": "ryanchesspromaster",
+        "ratingChange": 16,
         "games": 2,
         "wins": 2,
         "losses": 0,
         "draws": 0,
-        "score": 15,
+        "score": 21,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 42,
         "avatar": null
       },
       {
-        "username": "rizzinvein",
-        "ratingChange": 0,
-        "games": 3,
-        "wins": 3,
-        "losses": 0,
+        "username": "1yummy_chess",
+        "ratingChange": 22,
+        "games": 5,
+        "wins": 4,
+        "losses": 1,
         "draws": 0,
-        "score": 15,
+        "score": 20.7,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 43,
         "avatar": null
       },
       {
-        "username": "yohstepdad",
-        "ratingChange": 0,
-        "games": 3,
-        "wins": 3,
-        "losses": 0,
+        "username": "vvkkings",
+        "ratingChange": 23,
+        "games": 9,
+        "wins": 6,
+        "losses": 3,
         "draws": 0,
-        "score": 15,
+        "score": 19.9,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 44,
         "avatar": null
       },
       {
-        "username": "gamblerdan",
-        "ratingChange": 0,
-        "games": 2,
-        "wins": 2,
-        "losses": 0,
-        "draws": 0,
-        "score": 15,
+        "username": "eyes_blue_so_oceanic",
+        "ratingChange": 22,
+        "games": 18,
+        "wins": 10,
+        "losses": 7,
+        "draws": 1,
+        "score": 19.8,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 45,
         "avatar": null
       },
       {
-        "username": "renukeswari",
-        "ratingChange": 0,
-        "games": 1,
-        "wins": 1,
-        "losses": 0,
+        "username": "silvviu",
+        "ratingChange": 22,
+        "games": 9,
+        "wins": 6,
+        "losses": 3,
         "draws": 0,
-        "score": 15,
+        "score": 19.6,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 46,
         "avatar": null
       },
       {
-        "username": "vgmalu",
-        "ratingChange": 0,
-        "games": 18153,
-        "wins": 8452,
-        "losses": 8206,
-        "draws": 1495,
-        "score": 14.8,
+        "username": "oscambit2000",
+        "ratingChange": 10,
+        "games": 1,
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "score": 18.7,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 47,
         "avatar": null
       },
       {
-        "username": "feiren123",
-        "ratingChange": 0,
-        "games": 18602,
-        "wins": 8456,
-        "losses": 8876,
-        "draws": 1270,
-        "score": 14.8,
+        "username": "roruy_f998",
+        "ratingChange": 14,
+        "games": 32,
+        "wins": 15,
+        "losses": 16,
+        "draws": 1,
+        "score": 18.6,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 48,
         "avatar": null
       },
       {
-        "username": "mardekar31",
-        "ratingChange": 0,
-        "games": 19169,
-        "wins": 8299,
-        "losses": 9321,
-        "draws": 1549,
-        "score": 14.7,
+        "username": "oo_arabi",
+        "ratingChange": 17,
+        "games": 23,
+        "wins": 12,
+        "losses": 10,
+        "draws": 1,
+        "score": 18.6,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 49,
         "avatar": null
       },
       {
-        "username": "yash_agarwal_chess",
-        "ratingChange": 0,
-        "games": 17110,
-        "wins": 8373,
-        "losses": 8065,
-        "draws": 672,
-        "score": 14.7,
+        "username": "dheera_jbhagat",
+        "ratingChange": -30,
+        "games": 58,
+        "wins": 25,
+        "losses": 32,
+        "draws": 1,
+        "score": 18.5,
         "scoreBasis": "rating progress 50% · game activity 35% · game win rate 15%",
         "rank": 50,
         "avatar": null
@@ -922,67 +1530,77 @@
     ],
     "limitation": "Club-level match results only; the public endpoint does not identify individual member contributions."
   },
-  "mostImprovedMember": null,
+  "mostImprovedMember": {
+    "rank": 1,
+    "username": "vokomeesehe",
+    "ratingChange": 143,
+    "formats": {
+      "chess_blitz": 0,
+      "chess_bullet": 143
+    },
+    "games": 29,
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/613782470.991864d8.200x200o.aa562c837a60.jpg"
+  },
   "profiles": {
-    "damjan1989": {
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/145826935.78cc33cb.200x200o.68adf09ed4b5.png",
+    "vokomeesehe": {
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/613782470.991864d8.200x200o.aa562c837a60.jpg",
       "name": null,
-      "fetchedAt": "2026-11-11T06:51:02.866Z"
+      "fetchedAt": "2026-11-11T19:42:33.949Z"
     },
-    "trimitziosp7": {
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36399258.7834e2ed.200x200o.ff7e27610f93.jpg",
-      "name": "Petros Trimitzios",
-      "fetchedAt": "2026-11-11T06:51:02.866Z"
+    "kritigya777": {
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/506830919.b6a50694.200x200o.58074fade335.jpg",
+      "name": "𝒢𝓁𝑜𝓈𝓈𝓎 𝐿𝒾𝒻𝑒 🕊️",
+      "fetchedAt": "2026-11-11T19:42:33.949Z"
     },
-    "watchful_boss": {
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/340158411.ee72f438.200x200o.136b69729f1b.jpg",
+    "tsehayedimtsu": {
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/354880477.0be7bfd7.200x200o.aa09d8cbc7a3.jpg",
+      "name": "Tsehaye Dimtsu Araya",
+      "fetchedAt": "2026-11-11T19:42:33.949Z"
+    },
+    "m_040": {
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/188941809.6ebfaf94.200x200o.89bfb454f274.jpg",
       "name": null,
-      "fetchedAt": "2026-11-11T06:51:02.866Z"
+      "fetchedAt": "2026-11-11T19:42:33.949Z"
     },
-    "emir_yoel": {
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/202119843.e5f71caf.200x200o.4deda839907f.jpg",
-      "name": null,
-      "fetchedAt": "2026-11-11T06:51:02.866Z"
+    "anurag-tigga": {
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/338360709.60a048ad.200x200o.d0a6a83559f5.png",
+      "name": "ꫝ Ɲ 𝚄 Ʀ ꫝ G  ‼ ️",
+      "fetchedAt": "2026-11-11T19:42:33.949Z"
+    },
+    "hiyoulittle": {
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/374985519.06943171.200x200o.ee6054be23b8.png",
+      "name": "♝ 𝔸𝕣𝕛𝕠",
+      "fetchedAt": "2026-11-11T19:42:33.949Z"
     },
     "shantia-s": {
       "avatar": null,
       "name": null,
       "fetchedAt": "2026-11-11T06:51:02.866Z"
     },
-    "findantheelf": {
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/102031194.73f3ee82.200x200o.1d6d9d6831eb.jpeg",
+    "jeetbhakat": {
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/262040743.2183d463.200x200o.3a83cbc8b353.jpg",
       "name": null,
-      "fetchedAt": "2026-11-11T06:51:02.866Z"
+      "fetchedAt": "2026-11-11T19:42:33.949Z"
     },
-    "tanahp": {
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3134548.474a7429.200x200o.9322ea94cc36.jpeg",
-      "name": "Jinbei",
-      "fetchedAt": "2026-11-11T06:51:02.866Z"
+    "travellerrr5": {
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/475974770.beb1465e.200x200o.512a4cc39433.jpg",
+      "name": null,
+      "fetchedAt": "2026-11-11T19:42:33.949Z"
     },
-    "lusitorey7": {
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5576484.5f7c7d8b.200x200o.028ef636c450.jpeg",
-      "name": "Luis Carlos España Gómez",
-      "fetchedAt": "2026-11-11T06:51:02.866Z"
+    "roseforu777": {
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/447363574.f23dd291.200x200o.10a0e55437c7.jpg",
+      "name": "shreya",
+      "fetchedAt": "2026-11-11T19:42:33.949Z"
     },
-    "aakuttan": {
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5076014.08fb1ea2.200x200o.50e423ff5ad6.jpeg",
-      "name": "AKASH AB",
-      "fetchedAt": "2026-11-11T06:51:02.866Z"
-    },
-    "spudwebb11": {
+    "deepesh1058": {
       "avatar": null,
-      "name": null,
-      "fetchedAt": "2026-11-11T06:51:02.866Z"
+      "name": "mohit Singh",
+      "fetchedAt": "2026-11-11T19:42:33.949Z"
     },
-    "josemi45": {
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/107862644.e96e2a98.200x200o.7a263278980c.webp",
-      "name": "Josemi",
-      "fetchedAt": "2026-11-11T06:51:02.866Z"
-    },
-    "theovsme": {
-      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/169741469.df6e2b61.200x200o.df81a41bbbf5.jpg",
+    "armandonavo15": {
+      "avatar": "https://images.chesscomfiles.com/uploads/v1/user/465412694.a34239d8.200x200o.034823537ea7.jpg",
       "name": null,
-      "fetchedAt": "2026-11-11T06:51:02.866Z"
+      "fetchedAt": "2026-11-11T19:42:33.949Z"
     }
   },
   "clubInsights": {
@@ -990,13 +1608,13 @@
     "gamesPlayed": 0,
     "avgRatingChange": 0,
     "memberGrowth": 0,
-    "activeMembers": 881,
+    "activeMembers": 211,
     "series": [
       {
         "date": "2026-11-11",
         "games": 0,
-        "memberCount": 911,
-        "avgRating": 957
+        "memberCount": 913,
+        "avgRating": 958
       }
     ]
   },
